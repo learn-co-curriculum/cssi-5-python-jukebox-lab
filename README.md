@@ -1,7 +1,4 @@
----
-languages: python
-tags: functions, lists, looping
----
+
 
 # Instructions
 
