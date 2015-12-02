@@ -41,3 +41,5 @@ out a method called each_with_index)
 
 Bonus:
   * Get the songs to play!
+
+<a href='https://learn.co/lessons/cssi-5-python-jukebox-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
